@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/0Mariam-Salem0">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m Mariam Salem" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=420&text=Hello!%20I'm%20Mariam%20Salem" alt="Hello! I&#39;m Mariam Salem" />
   </a>
 </p>
 
