@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/0Mariam-Salem0/AI-Genesis">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=0Mariam-Salem0&repo=AI-Genesis&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&cache_seconds=1800" alt="AI-Genesis" />
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=0Mariam-Salem0&repo=AI-Genesis&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&cache_seconds=100" alt="AI-Genesis" />
   </a>
 </p>
 
